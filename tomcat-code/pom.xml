@@ -6,7 +6,7 @@
 
     <modelVersion>4.0.0</modelVersion>
     <groupId>org.apache.tomcat</groupId>
-    <artifactId>Tomcat8.0</artifactId>
+    <artifactId>tomcat-code</artifactId>
     <name>Tomcat8.0</name>
     <version>8.0</version>
 

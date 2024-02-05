@@ -3,7 +3,7 @@
 
     <modelVersion>4.0.0</modelVersion>
     <groupId>frankbian</groupId>
-    <artifactId>tomcat-study</artifactId>
+    <artifactId>tomcat8</artifactId>
     <name>Tomcat 8.0 study</name>
     <version>1.0</version>
     <packaging>pom</packaging>
